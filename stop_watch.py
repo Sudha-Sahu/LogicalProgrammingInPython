@@ -1,4 +1,3 @@
-
 # import datetime module
 from datetime import datetime
 
@@ -11,3 +10,5 @@ print("Today's Date and Time is : ", end_time)
 
 elapse_time = start_time - end_time
 print(elapse_time)
+
+
